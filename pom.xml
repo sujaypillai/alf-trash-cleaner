@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.ootb</groupId>
-    <artifactId>alf-trash-cleaner</artifactId>
+    <groupId>com.ootb</groupId>
+    <artifactId>alf-trashcan-cleaner</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>alf-trash-cleaner Repository AMP project</name>
+    <name>alf-trashcan-cleaner Repository AMP project</name>
     <packaging>amp</packaging>
-    <description>Manages the lifecycle of the alf-trash-cleaner Repository AMP (Alfresco Module Package)</description>
+    <description>Manages the lifecycle of the alf-trashcan-cleaner Repository AMP (Alfresco Module Package)</description>
 
     <parent>
         <groupId>org.alfresco.maven</groupId>
